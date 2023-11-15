@@ -16,7 +16,7 @@ Hello, dear reader. My name is Elizaveta and I am a 23-year-old woman, who gradu
 
 My love for the computer **is much more** than just using it for financial planning. I will try to explain why ...
 
-As a child, my hobby was learning new things - I liked to create 3D models and animations. I often enjoyed learning new software (like Adobe Photoshop, Blender, game design, etc). Maybe that's why I grew up and realized that I really liked programming! I enjoy writing code. I really like the feeling that I can understand how something works and that I can create something new.
+As a child, my hobby was learning new things - I liked to create 3D models and animations. I often enjoyed learning new software (like Adobe Photoshop, Blender, game design, etc). Maybe that's why I grew up and realized that I really liked programming! I enjoy writing code. I like the feeling that I can understand how something works and that I can create something new.
 **Literally whatever my heart desires!**❤️
 
 I started my programming journey with Python. Even creating a calculator on it made me delighted! The desire to create something and immediately see the result inspired me so much that I decided to try JS/Frontend development at RS School. **I have successfully completed stage 0. Now i am going through stage 1.** 
