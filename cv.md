@@ -56,17 +56,17 @@ noAnswer.addEventListener("change", e => {
 
 ***My own projects:***
 
-[Game about wizard Kitty 🐾](soon)
+[Game about wizard Kitty 🐾](https://tabrisel.github.io/Wizard-kitty/)
 
 ***Learning projects from RS School:***
 
-[Library](soon)
+[Library](https://tabrisel.github.io/Tasks-from-stage0/library/)
 
-[Audio-player](soon)
+[Audio-player](https://tabrisel.github.io/Tasks-from-stage0/audio-player/)
 
-[Random-game](soon)
+[Random-game](https://tabrisel.github.io/Tasks-from-stage0/random-game/)
 
-[Image-gallery](soon)
+[Image-gallery](https://tabrisel.github.io/Tasks-from-stage0/image-galery/)
 
 [CSS Meme-slider](https://tabrisel.github.io/cssMemeSlider/cssMemeSlider/index.html)
 
