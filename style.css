@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Rubic";
+    src: url("assets/fonts/Rubic/Rubik-VariableFont_wght.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    font-family: Rubic;
+}

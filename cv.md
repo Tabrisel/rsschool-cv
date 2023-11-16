@@ -1,4 +1,4 @@
-![photo](assets/images/avatar.jpg) 
+![photo](assets/images/avatar.jpg)
 # **Elizaveta Zaharova**
 
 # **Contact Information:**
@@ -19,7 +19,7 @@ My love for the computer **is much more** than just using it for financial plann
 As a child, my hobby was learning new things - I liked to create 3D models and animations. I often enjoyed learning new software (like Adobe Photoshop, Blender, game design, etc). Maybe that's why I grew up and realized that I really liked programming! I enjoy writing code. I like the feeling that I can understand how something works and that I can create something new.
 **Literally whatever my heart desires!**❤️
 
-I started my programming journey with Python. Even creating a calculator on it made me delighted! The desire to create something and immediately see the result inspired me so much that I decided to try JS/Frontend development at RS School. **I have successfully completed stage 0. Now i am going through stage 1.** 
+I started my programming journey with Python. Even creating a calculator on it made me delighted! The desire to create something and immediately see the result inspired me so much that I decided to try JS/Frontend development at RS School. **I have successfully completed stage 0. Now i am going through stage 1.**
 Also i am trying to learn JS at a more advanced level. My favorite project helps me a lot with this - I’m making a really good pixel game with using only JS and HTML (yes, I could use ready-constructor for games, but it’s not that interesting, right?)
 
 
